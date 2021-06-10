@@ -127,7 +127,12 @@
 
 
 
+let hi = () => {
+  console.log('Hi there');
 
+}
+
+console.log(hi());
 
   
 // fetch("dino.json")
